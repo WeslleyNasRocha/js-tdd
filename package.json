@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Minha biblioteca do curso de js com tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeslleyNasRocha/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Weslley Rocha <weslleytato.12@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeslleyNasRocha/js-tdd/issues"
+  },
+  "homepage": "https://github.com/WeslleyNasRocha/js-tdd#readme"
+}
